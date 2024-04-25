@@ -1,4 +1,3 @@
-```markdown
 # Design Patterns in Python
 
 ## Description / Descripción
@@ -31,5 +30,3 @@
 21. [Strategy](strategy.md)
 22. [Template Method](template_method.md)
 23. [Visitor](visitor.md) -->
-
-```
