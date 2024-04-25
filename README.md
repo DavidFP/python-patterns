@@ -2,7 +2,7 @@
 
 ## Description / Descripción
 
-🇬🇧 This repository aims to implement the main software design patterns using the Python language.
+🇬🇧 This repository aims to implement the main software design patterns using the Python language.</br>
 🇪🇸 Este repositorio tiene como objetivo implementar los principales patrones de diseño de software utilizando el lenguaje Python.
 
 ## Patterns / Patrones
