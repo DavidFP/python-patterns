@@ -17,5 +17,9 @@
     <li>11. Singleton</li>
 </ul>
 
+2. Behavioral
+<ul>
+    <li>21. Iterator</li>
+</ul>
 
 
